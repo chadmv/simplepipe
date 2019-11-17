@@ -1,0 +1,35 @@
+{
+    "project_root": "D:/projects",
+    "asset_categories": {
+        "Characters": {},
+        "Environments": {
+            "Jungle": {},
+            "Snow": {}
+        },
+        "Props": {
+            "Weapons": {},
+            "Items": {}
+        },
+        "Vehicles": {}
+    },
+    "asset_template": {
+        "Models": {
+            "Work": {
+                "Maya": {},
+                "Substance": {},
+                "Zbrush": {},
+                "Marvelous": {}
+            },
+            "Export": {
+            }
+        },
+        "Animations": {
+            "Work": {
+                "Maya": {},
+                "Mobu": {}
+            },
+            "Export": {
+            }
+        }
+    }
+}
